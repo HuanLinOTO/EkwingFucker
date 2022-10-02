@@ -1,0 +1,6 @@
+{
+    "login":"https://passport.ekwing.com/index/login?callback=jQuery172040459599531970936_1663939629402&uname=0675500734&pw=pokGuFLCfTehaQJPJmKhWiccg4YAOYwwKC2DkMbob62pJGjZ0eYAy%2FCaLTEj9391DnS9j3oiWFmwctru6Jwgm%2F%2BP92lb4KubJ6FcXKLF%2BXjsde6jerxr0hlB4kDtNlCuKtqm4Mfv%2BEn2EMkTgK0oUM2U5vrxOO%2FH05ELjJKP2JI%3D&client_type=web&encrypt_key=bd92a007a5297ac77a87082992d4dbc3&encrypt_type=rsa&utype=2&mem_type=2&_=1663939660025",
+    "exam":"https://www.ekwing.com/exam/student/getexamlist?page=1&type=2&mode_type=1",
+    "webhook":"https://oapi.dingtalk.com/robot/send?access_token=1f513bb5bd27fc833b568f5664f43edb4a76dcd047a4471c85041e675e018b34",
+    "keyword":"FuckEkwing"
+}
